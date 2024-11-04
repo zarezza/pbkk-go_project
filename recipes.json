@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Spaghetti Carbonara",
+        "ingredients": ["spaghetti", "eggs", "parmesan", "bacon"]
+    },
+    {
+        "name": "Omelette",
+        "ingredients": ["eggs", "cheese", "milk"]
+    },
+    {
+        "name": "Grilled Cheese Sandwich",
+        "ingredients": ["bread", "cheese", "butter"]
+    },
+    {
+        "name": "Tomato Pasta",
+        "ingredients": ["pasta", "tomato sauce", "garlic"]
+    }
+]
